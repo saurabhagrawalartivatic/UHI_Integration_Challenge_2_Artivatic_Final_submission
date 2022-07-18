@@ -1,0 +1,2 @@
+# UHI_Integration_Challenge_2_Artivatic_Final_submission
+ABDM Hackathon teleconsultation challenge
